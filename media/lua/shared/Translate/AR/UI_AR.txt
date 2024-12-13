@@ -1,6 +1,6 @@
 UI_AR = {
-    UI_prof_Detective = "Detective",
-    UI_prof_DetectiveDesc = "Un observador meticuloso con habilidades excepcionales para encontrar recursos urbanos y una capacidad innata para detectar peligros. El Detective se destaca en areas interiores pequenas y ofrece mecanicas unicas para identificar amenazas ocultas.",
+    UI_prof_detective = "Detective",
+    UI_prof_detectiveDesc = "Un observador meticuloso con habilidades excepcionales para encontrar recursos urbanos y una capacidad innata para detectar peligros. El Detective se destaca en areas interiores pequenas y ofrece mecanicas unicas para identificar amenazas ocultas.",
     
     -- Frases para modo búsqueda
     UI_phrase_1 = "Atento...",
