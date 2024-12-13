@@ -1,6 +1,6 @@
 UI_EN = {
-    UI_prof_Detective = "Detective",
-    UI_prof_DetectiveDesc = "A meticulous observer with exceptional urban foraging skills and an innate ability to detect dangers. The Detective excels in smaller indoor areas and provides unique gameplay mechanics for identifying hidden threats.",
+    UI_prof_detective = "Detective",
+    UI_prof_detectiveDesc = "A meticulous observer with exceptional urban foraging skills and an innate ability to detect dangers. The Detective excels in smaller indoor areas and provides unique gameplay mechanics for identifying hidden threats.",
     
     -- Frases para modo búsqueda
     UI_phrase_1 = "Let’s keep our eyes sharp.",
